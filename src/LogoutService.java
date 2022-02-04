@@ -1,4 +1,4 @@
 public class LogoutService {
 
-    //added Awesome login service
+    //added Awesome logout service
 }
